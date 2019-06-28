@@ -1,9 +1,11 @@
 ### vxe-table实现的几个功能
 #### 导出csv
-#### 动态显示列
+#### 复杂表头动态显示列
 #### 表内编辑(表内下拉选择需要配合其他插件如element-ui使用)
 #### 行多选
 #### 列宽拖动
+#### 表头v-for动态渲染
+#### 文档https://xuliangzhan.github.io/vxe-table
 
 
 # vue_3
